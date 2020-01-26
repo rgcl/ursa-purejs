@@ -5,6 +5,9 @@ A pure-js drop-in replacement for URSA, using node-rsa behind the scenes.
 
 > Note : Most of this readme is shamelessly stolen from ursa's own repo.
 
+> Note 2: This code was stolen from ursa-purejs's own repo.
+> Only security patches were added.
+
 # Installing
 
 ```shell
